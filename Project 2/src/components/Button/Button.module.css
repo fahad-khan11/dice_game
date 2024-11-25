@@ -1,0 +1,25 @@
+.primary_button{
+    padding: 18px 18px;
+    background-color:#000000;
+    border: 1px solid black;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap:8px;
+    min-width: 220px;
+    font-size: 16px;
+}
+
+.outline_button{
+    padding: 18px 18px;
+    border: 1px solid black;
+    color: black;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap:8px;
+    min-width: 220px;
+    font-size: 16px;
+    width : 100%;
+}
